@@ -5,7 +5,7 @@
 ### 👨🏻‍💻 &nbsp;About Me
 
  &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
- &nbsp;I'm on track for learning more about Artificial Intelligence, 
+ &nbsp;I'm on track for learning more about Artificial Intelligence,\
  &nbsp;Feel free to reach out to me for pro bono consulting and volunteering, or just for some interesting discussion.\
  &nbsp;You can shoot me an email at wiczling.karol@gmail.com! I'll try to respond as soon as I can.\
 
