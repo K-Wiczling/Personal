@@ -9,7 +9,7 @@
  &nbsp;Feel free to reach out to me for pro bono consulting and volunteering, or just for some interesting discussion.\
  &nbsp;You can shoot me an email at wiczling.karol@gmail.com! I'll try to respond as soon as I can.
 
-### <img src="https://www.holopin.io/_next/image?url=%2Fimages%2Flogo.png&w=16&q=75"/>  Holopin board 
+### <img src="https://www.holopin.io/_next/image?url=%2Fimages%2Flogo.png&w=32&q=75"/>  Holopin board 
 [![@kwiczling's Holopin board](https://holopin.me/kwiczling)](https://holopin.io/@kwiczling)
 
 ### 🛠 &nbsp;Tech Stack
