@@ -39,7 +39,7 @@
 <a href="https://k-wiczling.github.io/Personal/"><img src="https://img.shields.io/badge/-wiczling.karol-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/karol-wiczling/"><img src="https://img.shields.io/badge/-Karol%20Wiczling-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:wiczling.karol@gmail.com"><img src="https://img.shields.io/badge/-wiczling.karol@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
-<a href="https://www.holopin.io/@kwiczling"><img src="https://img.shields.io/badge/-@kwiczling-E4405F?style=flat"/></a>
+<a href="https://www.holopin.io/@kwiczling"><img src="https://www.holopin.io/images/Long.svg"/></a>
 <a href="https://www.facebook.com/profile.php?id=100085371463610"><img src="https://img.shields.io/badge/-KarolWiczling-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
 
 </p>
